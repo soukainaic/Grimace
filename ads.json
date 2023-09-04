@@ -5,9 +5,9 @@
 "applovin_banner":"11",
 
   
-"facebook_inter":"IMG_16_9_APP_INSTALL#111",
-"facebook_banner":"IMG_16_9_APP_INSTALL#111",
-"facebook_native":"IMG_16_9_APP_INSTALL#111",
+"facebook_inter":"IMG_16_9_APP_INSTALL#321794533767110_321797387100158",
+"facebook_banner":"IMG_16_9_APP_INSTALL#321794533767110_321797947100102",
+"facebook_native":"IMG_16_9_APP_INSTALL#321794533767110_321798537100043",
    
   
 "admob_inter":"ca-app-pub-3275007538096659/5198539798",
@@ -16,9 +16,9 @@
 
 
 
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"native_network_choice":"admob"
+"banner_network_choice":"facebook", 
+"interstisial_network_choice":"facebook", 
+"native_network_choice":"facebook"
   
  
   
@@ -28,4 +28,4 @@
 
 
 
-google.com, pub-3275007538096659, DIRECT, f08c47fec0942fa0
+
