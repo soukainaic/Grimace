@@ -1,8 +1,8 @@
 {"ads":{
   
-"applovin_inter":"111",
-"applovin_native":"111",
-"applovin_banner":"11",
+"applovin_inter":"4d12349c80468070",
+"applovin_native":"ac8524440816ee59",
+"applovin_banner":"e25fc58b937e2fe1",
 
   
 "facebook_inter":"IMG_16_9_APP_INSTALL#321794533767110_321797387100158",
@@ -16,9 +16,9 @@
 
 
 
-"banner_network_choice":"facebook", 
-"interstisial_network_choice":"facebook", 
-"native_network_choice":"facebook"
+"banner_network_choice":"applovin", 
+"interstisial_network_choice":"applovin", 
+"native_network_choice":"applovin"
   
  
   
