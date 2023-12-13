@@ -5,7 +5,7 @@
 "applovin_banner":"e25fc58b937e2fe1",
 
   
-"facebook_inter":"IMG_16_9_APP_INSTALL#321794533767110_321797387100158",
+"facebook_inter":"IMG_16_9_APP_INSTALL#321794533767110_375047298441833",
 "facebook_banner":"IMG_16_9_APP_INSTALL#321794533767110_321797947100102",
 "facebook_native":"IMG_16_9_APP_INSTALL#321794533767110_321798537100043",
    
@@ -16,9 +16,9 @@
 
 
 
-"banner_network_choice":"facebook", 
+"banner_network_choice":"admob", 
 "interstisial_network_choice":"facebook", 
-"native_network_choice":"facebook"
+"native_network_choice":"applovin"
   
  
   
